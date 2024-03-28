@@ -6,9 +6,6 @@ description: Everything I've ever coded... that's worth putting on my website, a
 menu: true
 ---
 
-I'm a programmer, by hobby and by profession. When I'm not busy making stupid stuff, I occasionally make things of actual value.
-
-
 <h4><b>Shiny New Projects</b></h4>
 
 
@@ -22,6 +19,8 @@ I'm a programmer, by hobby and by profession. When I'm not busy making stupid st
 
 <h4><b>Less Shiny Projects</b></h4>
 
+<b><em><small>(2023-05-02)</small></em>  <a href="/code/fern/">Fern Editor</a></b><br/>
+<small>A palette editor for <a href="https://store.steampowered.com/app/1772830/Rusted_Moss/">Rusted Moss</a>, my pick for game of the year 2023.</small>
 
 <b><em><small>(2021-05-16)</small></em>  <a href="/code/discord-themes/">BetterDiscord Themes</a></b><br/>
 <small>Customized themes for BetterDiscord.</small>

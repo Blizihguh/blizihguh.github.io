@@ -7,9 +7,6 @@ description: All things board game related, from reskins to cheat sheets to the 
 menu: true
 ---
 
-I like to play board games. Sometimes I like to make them, too! I play video games too, but making those takes a lot of time and I have a lot of hobbies.
-
-
 <h4><b>Shiny New Projects</b></h4>
 
 

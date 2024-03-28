@@ -6,9 +6,6 @@ description: My own home-made puzzles.
 menu: true
 ---
 
-I really like puzzles.
-
-
 <b><em><small>(2020-04-30)</small></em>  <a href="/puzzles/europe-hunt/">Puzzle Hunt: Escape from Europe</a></b><br/>
 <small>A puzzle hunt that my friends and I made for Zack Butler's 2020 CS Puzzles class at RIT. Do YOU have what it takes to escape from Europe?</small>
 
