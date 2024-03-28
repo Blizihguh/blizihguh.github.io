@@ -9,9 +9,9 @@ embedimage: /img/embeds/fern.png
 <!-- HTML -->
 <script src="/scripts/jscolor.js"></script>
 
-<input type="button" onclick="render()" value="Generate Preview">
+<input type="button" onclick="render()" value="Generate Preview"> <- Click this if something goes wrong
 <div class="row">
-  <div class="imgColumn"><canvas id="canvas" width="435" height="320"></canvas><canvas id="expt_canvas" width="87" height="64"></canvas></div>
+  <div class="imgColumn"><canvas id="canvas" width="435" height="320"></canvas><canvas id="expt_canvas" width="87" height="64"></canvas> <- Right click + save to import</div>
   <div class="buttonsColumn">
   	<div id="buttons-div">
   		Sleeve: <input type="text" id="color0" style="width: 60px;" data-jscolor="{}" onChange="render();"><br/>
@@ -55,7 +55,8 @@ embedimage: /img/embeds/fern.png
   </div>
 </div> 
 <canvas id="buffer" class="debug" width="435" height="320"></canvas>
-<canvas id="expt_buffer" class="debug" width="435" height="320"></canvas>
+<canvas id="expt_buffer" class="debug" width="435" height="320"></canvas> 
+<canvas id="palette" class="debug"></canvas>
 
 <script>
 	const MASKS = ["https://github.com/Blizihguh/blizihguh.github.io/raw/master/img/fern/fern_mask_00.png",
